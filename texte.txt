@@ -1,0 +1,19 @@
+Name:Sinedje Takoumbo Landry 
+Speciality:softwares engineering
+Lab4
+ Introduction to software engineering 
+
+a) Functionality. What is the software supposed to do?
+
+A software requirements specification (SRS) is a document that describes what the software will do and how it will be expected to perform. It also describes the functionality the product needs to fulfill all stakeholders (business, users) needs.
+
+B)External interfaces. How does the software interact with people, the system‘s hardware, other hardware, and other software? An SRS minimizes the time and effort required by developers to achieve desired goals and also minimizes the development cost. The application allows populating a MS Word document with project data via HTML data format.
+The application allows import / export a list of requirements from / to MS Excel sheet via CSV data format.
+The application stores project data in JSON format to enable easy integration with 3rd party applications.
+
+c) Performance. What is the speed, availability, response time, recovery time of various software functions, etc.?
+
+In SRS mode, the aircraft maintains a speed target equal to VS + 10 knots in normal engine configuration. When the FMGS detects an engine failure, the speed target becomes the highest of V2 or current speed, limited by V2 + 15knots
+
+d) Attributes. What are the portability, correctness, maintainability, security, etc. considerations?
+	◦	
